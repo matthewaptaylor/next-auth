@@ -131,6 +131,11 @@
       "source": "/",
       "has": [{ "type": "host", "value": "discord.authjs.dev" }],
       "destination": "https://discord.gg/CGAPMawPng"
+    },
+    {
+      "source": "/",
+      "has": [{ "type": "host", "value": "trpc.authjs.dev" }],
+      "destination": "https://authjs.dev/reference/trpc"
     }
   ]
 }
